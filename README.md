@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cedzzy
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning how to pop
-- 💞️ I’m looking to collaborate on por*hub
+- 👀 I’m interested in figma 
+- 🌱 I’m currently learning how to animate and designing logos and stream overlays
+- 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me cedzzzy@gmail.com
 
 <!---
